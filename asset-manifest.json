@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-deploy/static/css/main.c2cab247.css",
+    "main.js": "/react-practice-deploy/static/js/main.1864d716.js",
+    "index.html": "/react-practice-deploy/index.html",
+    "main.c2cab247.css.map": "/react-practice-deploy/static/css/main.c2cab247.css.map",
+    "main.1864d716.js.map": "/react-practice-deploy/static/js/main.1864d716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.1864d716.js"
+  ]
+}
